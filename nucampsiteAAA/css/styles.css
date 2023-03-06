@@ -1,0 +1,77 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    color: white;
+    margin:0px
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #901CAD;
+}
+.row-3{
+    margin: top 1000px;
+    
+    
+}
+#footer{
+    margin-bottom: 100px;
+}
+
+.card{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.btn.btn-primary{
+    margin-top: 20px;
+}
+
+.div.col.col-md-3.col-xl-6{
+    margin-top: 4px;
+}
+
+a, a:hover {
+    text-decoration: none;
+  }
+
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
